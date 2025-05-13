@@ -1,0 +1,22 @@
+#container{
+     display: flex; 
+    /* flex-direction: row; */
+    /* justify-content: flex-start; */
+}
+
+#one{
+    height:200px;
+     width:200px;
+     background-color: pink;
+}
+     
+#two{
+    height:200px;
+     width:200px;
+     background-color: green;
+}
+#three{
+    height:200px;
+     width:200px;
+     background-color: yellow;
+}
